@@ -1,4 +1,4 @@
-<!doctype html>
+welcome.blade.php<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
